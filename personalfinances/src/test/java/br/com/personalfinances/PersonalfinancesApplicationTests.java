@@ -1,10 +1,10 @@
-package br.com.personal.financies;
+package br.com.personalfinances;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PersonalFinanciesApplicationTests {
+class PersonalfinancesApplicationTests {
 
 	@Test
 	void contextLoads() {
