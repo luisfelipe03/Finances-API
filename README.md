@@ -1,7 +1,15 @@
 # API Controle Financeiro Alura
- alurachallengeback2
  
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=dark&style=for-the-badge)
+
+## Tecnologias usadas no projeto
+
+### Back-End
+
+<img align="center" alt="Felipe-java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> -
+<img align="center" alt="Felipe-java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> -
+<img align="center" alt="Felipe-java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+
  
 ## Objetivo
 Criar uma API Rest que faça o controle de Receitas e Despesas e gere relatório para controle finaneiro pessoal.
