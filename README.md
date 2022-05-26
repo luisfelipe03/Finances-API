@@ -1,7 +1,7 @@
 <hgroup><center><h1><b>API de controle financeiro - 
  <img align="center" alt="Felipe-java" height="40" width="40" src="https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs"></b></h1></center>
  
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=dark&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=dark&style=for-the-badge)
 
 ## Tecnologias usadas no projeto
 
